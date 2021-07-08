@@ -1,9 +1,9 @@
-# SpringBoot-Blog
+# SpringBoot-Thymeleaf-Blog
 
 "BACK : SringBoot, SpringSecurity, MAVEN"
 
-"FRONT : Bootstrap"
+"FRONT : Thymeleaf, Bootstrap"
 
 "DATABASE : JPA, Hibernate, Mysql"
 
-"ETC : RESTAPI, JackSon, lombok, JSON, Ajax"
+"ETC : RESTAPI, JackSon, lombok, JSON, Ajax, OAuth(Kakao)"
